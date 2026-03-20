@@ -53,15 +53,7 @@ Currently open to interesting backend and full-stack opportunities.
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-![Aphelele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApheleleNgcobo&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApheleleNgcobo&layout=compact&hide_border=true&theme=default)
-
-</div>
 
 ---
 
