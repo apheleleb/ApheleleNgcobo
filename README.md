@@ -49,7 +49,7 @@ Currently open to interesting backend and full-stack opportunities.
 | [Project Name](https://github.com/yourusername/project) | Short one-line description of what it does and why it matters. | Angular, TypeScript |
 | [Project Name](https://github.com/yourusername/project) | Short one-line description of what it does and why it matters. | .NET Core, PostgreSQL |
 
-> **Tip:** Pin your best 6 repos on your profile page — they show up before anything else.
+
 
 ---
 
@@ -57,9 +57,9 @@ Currently open to interesting backend and full-stack opportunities.
 
 <div align="center">
 
-![Aphelele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true)
+![Aphelele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApheleleNgcobo&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApheleleNgcobo&layout=compact&hide_border=true&theme=default)
 
 </div>
 
