@@ -2,7 +2,7 @@
 
 # Aphelele Ngcobo
 
-**Full Stack Developer** · Building clean systems, inside and out.
+**Software Developer** · Building clean systems, inside and out.
 
 [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ngcoboaphelele0@email.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
@@ -14,7 +14,16 @@
 
 ## About
 
-I'm a full stack developer based in South Africa, focused on building robust backends and polished web experiences. I care about clean architecture, readable code, and systems that scale without drama.
+I'm a full stack software developer based in South Africa, focused on building robust backends and polished web experiences. I care about clean architecture, readable code, and systems that scale without drama.
+
+Currently working on:
+- Product Management System
+- Personal Client Website
+
+Currently Learning:
+- Cloud computing
+- Security Fundamentals (Preparing for my ISC2 CC Cert)
+- Docker
 
 Currently open to interesting backend and full-stack opportunities.
 
